@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1509458646 source:e:\cours ecole ludus\programmation\c\mini_prog_id_cpp\main.cpp
+	<iostream>
+	<ostream>
+	<string>
+	"Identity.h"
+
+1509456947 e:\cours ecole ludus\programmation\c\mini_prog_id_cpp\include\identity.h
+	<string>
+
+1509457096 source:e:\cours ecole ludus\programmation\c\mini_prog_id_cpp\src\identity.cpp
+	<iostream>
+	<string>
+	"Identity.h"
+	<stdio.h>
+	<string.h>
+
